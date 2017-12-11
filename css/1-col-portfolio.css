@@ -1,0 +1,109 @@
+/*!
+ * Start Bootstrap - 1 Col Portfolio (http://startbootstrap.com/)
+ * Copyright 2013-2016 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE)
+ */
+
+html {
+ 
+}
+body {
+    padding-top: 150px; /* Required padding for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */
+    font-family: "Comic Sans MS", cursive, sans-serif;
+
+   background-image: url('../images/background.jpg');
+  
+}
+.navbar-fixed-top{
+    background-color:#000;
+    font-color: #c9302c;
+}
+.container{
+   background-color: #000;
+   color:#FFF;
+}
+nav{
+  background-color:#000;
+    height:110px;
+    font-size:25px;
+  padding-top: 25px;
+      font-family: "Comic Sans MS", cursive, sans-serif;
+}
+li{
+    color:#c9302c;
+}
+ul{
+    list-style: none;
+    color:#c9302c;
+}
+
+.well1{width:300px;height:220px;float:left; background-color:#3f7d91;border:2px solid #fff; margin-left:50px;}
+.anketanaslov{font-size:30px;color:#fff;padding-left:20px;}
+.anketagore{margin-top:0px;}
+.anketatekst{font-size:13pt;color:#999999;text-align:justify; padding:20px;}
+.anketa{background-color:#3f7d91;width:300px;height:220px;}
+
+footer {
+    margin: 100px 0;
+    width:100%;
+    
+    height:50px;
+}
+a.navbar-brand{
+    font-size:35px;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    
+}
+img.navbar-brand{
+padding-bottom:50px;
+    height:150px;
+    padding-left:30px;
+    width:150px;
+}
+.navbar-fixed-top{
+    color:#FFF;
+}
+.img-responsive1{
+    height:250px;
+    width:250px;
+    margin:10px 10px;
+}
+example-image{
+    width:150px;
+    height:150px;
+}
+.galerija li{
+    float:right;
+    list-style:none;
+    padding: 10px 10px;
+}
+.galerija ul{
+    list-style: none;
+}
+.img-responsive{
+    
+    height:300px;
+    width:600px;
+}
+.row p{
+    font-size:20px;
+}
+.row  p.autor{
+    font-size:30px;
+}
+.well {
+    float:right;
+    
+    font-size:20px;
+}
+.well form{
+    float:right;
+   
+}
+.row table {
+   
+    font-size:20px;
+    width:1000px;
+    background-color:#000;
+    color:#fff;
+}
